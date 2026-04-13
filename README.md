@@ -19,7 +19,7 @@ A Fast API-based service that integrates machine learning models for intelligent
 
 ```bash
 git clone <repository-url>
-cd chat-boat-api
+cd Master-Project-Ulster-ML-Modal-and-Backend
 pip install -r requirements.txt
 ```
 
@@ -28,8 +28,6 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
-
-Visit `http://localhost:8000/docs` for interactive API documentation.
 
 ## Project Structure
 
@@ -45,7 +43,6 @@ chat-boat-api/
 ## API Endpoints
 
 - `POST /chat` - Send a message and receive a response
-- `GET /health` - Health check endpoint
 
 ## Configuration
 

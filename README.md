@@ -55,7 +55,7 @@ API_PORT=8000
 
 ## Contributing
 
-Pull requests are welcome.
+Pull requests are welcome
 
 ## License
 
